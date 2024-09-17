@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/kasv2/kasv2d/app/appmessage"
-	"github.com/kasv2/kasv2d/cmd/kasv2mainer/templatemanager"
+	"github.com/kasv2/kasv2d/cmd/kasv2miner/templatemanager"
 	"github.com/kasv2/kasv2d/domain/consensus/model/externalapi"
 	"github.com/kasv2/kasv2d/domain/consensus/utils/consensushashing"
 	"github.com/kasv2/kasv2d/domain/consensus/utils/pow"
