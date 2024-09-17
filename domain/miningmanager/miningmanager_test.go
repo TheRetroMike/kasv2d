@@ -1,7 +1,7 @@
 package miningmanager_test
 
 import (
-	"github.com/kasv2/kasv2d/cmd/kaspawallet/libkaspawallet"
+	"github.com/kasv2/kasv2d/cmd/kasv2wallet/libkaspawallet"
 	"github.com/kasv2/kasv2d/domain/consensusreference"
 	"github.com/kasv2/kasv2d/domain/miningmanager/model"
 	"github.com/kasv2/kasv2d/util"

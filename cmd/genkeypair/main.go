@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/kasv2/kasv2d/cmd/kaspawallet/libkaspawallet"
+	"github.com/kasv2/kasv2d/cmd/kasv2wallet/libkaspawallet"
 	"github.com/kasv2/kasv2d/util"
 )
 
