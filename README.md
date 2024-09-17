@@ -35,11 +35,11 @@ Go 1.18 or later.
 $ go version
 ```
 
-- Run the following commands to obtain and install kaspad including all dependencies:
+- Run the following commands to obtain and install kasv2d including all dependencies:
 
 ```bash
 $ git clone
-$ cd kaspav2d
+$ cd kasv2d
 $ go install . ./cmd/...
 ```
 
