@@ -58,7 +58,7 @@ const (
 
 var (
 	// DefaultAppDir is the default home directory for kaspad.
-	DefaultAppDir = util.AppDir("kaspad", false)
+	DefaultAppDir = util.AppDir("kasv2d", false)
 
 	defaultConfigFile  = filepath.Join(DefaultAppDir, defaultConfigFilename)
 	defaultDataDir     = filepath.Join(DefaultAppDir)

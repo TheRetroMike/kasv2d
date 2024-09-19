@@ -209,7 +209,7 @@ func (p *Params) PruningDepth() uint64 {
 // MainnetParams defines the network parameters for the main Kaspa network.
 var MainnetParams = Params{
 	K:           defaultGHOSTDAGK,
-	Name:        "kaspa-mainnet",
+	Name:        "kasv2-mainnet",
 	Net:         appmessage.Mainnet,
 	RPCPort:     "21110",
 	DefaultPort: "21111",
